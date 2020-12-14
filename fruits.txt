@@ -2,3 +2,4 @@ watermelon
 banana
 apple
 grapes
+cherry
